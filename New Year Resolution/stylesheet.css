@@ -1,0 +1,76 @@
+          
+		 body{
+		 width: 100%;
+		 background-color: lightgray;
+		 }
+		 
+		 /*.video{
+		 	width: 1200px;
+		 	height: 690px;
+		 	min-width: 600px;
+		 	min-height: 345px;
+		 }
+		*/
+
+		.video{
+			width: min(100px, 70%);
+		}
+
+
+		 .h1{
+		  background-color: black;
+		 color: white;
+		 font-size:40px;
+		 padding: 15px;
+		 }
+		 
+		 
+		 .form{
+		 width: 90%
+		 }
+		  
+		  
+		 .form label{
+		 display: block;
+		 padding: 8px;
+	     }
+		
+		
+	     .form input , form textarea{
+		 width: 100%;
+	     padding: 20px;
+	     }
+		
+		
+       
+		 
+		 .button{
+		 background-color: gray;
+		 color: black;
+		 margin: 40px;
+		 font-size: 40px;
+		 font-family: times new roman;
+		 }
+		 
+		 
+		 .p1{
+		 border:1px solid gray;
+		 padding:10px;
+		 } 
+		 
+		 
+		 .p2{
+		 border:1px solid gray;
+		 padding:10px;
+		 } 
+
+		 
+		 .p3{
+		 border:1px solid gray;
+		 padding:10px;
+		 } 
+		 
+		 
+		 
+		 
+		 
